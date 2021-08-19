@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dai Shengxin" / Sichuan University"
+title                    : "Dai Shengxin / Sichuan University"
 title_separator          : "-"
 name                     : &name "Dai Shengxin"
 description              : &description "Dr. Dai's homepage"
